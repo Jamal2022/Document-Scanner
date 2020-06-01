@@ -1,8 +1,11 @@
-###########################
-#Created on Sun May 31 15:12:58 2020
-#@author: Jamal Ali
-#Email : jamalabdu213@gmail.com
-###########################
+"""
+Created on Sun May 31 15:12:58 2020
+@author: Jamal Ali
+Email : jamalabdu213@gmail.com
+
+you need to install OpenCV by using this command in the terminal:
+pip install opencv-python
+"""
 import cv2
 import numpy as np
 
